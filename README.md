@@ -1,6 +1,6 @@
 # TA26-Ejercicio2
 
-enlace a Heroku: https://ta26-2.herokuapp.com/login  
+enlace a Heroku: https://ta26-2.herokuapp.com/
 
 Piezas  
 
